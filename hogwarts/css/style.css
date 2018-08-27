@@ -1,6 +1,9 @@
 body {
-	background-color: #F8F7FF
-	
+	background-color: #F8F7FF;
+	text-align: center;
+	background-size: cover;
+  margin: 0 auto;
+  color: white;
   }
 #container {
 	text-align: center;
@@ -8,3 +11,20 @@ body {
  .owl {
  	font-family: fantasy;
  }
+ ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+table, th, td {
+	border: gray 1px solid;
+}
+table {
+	margin: 0 auto;
+}
+.cabbage {
+	color: chartreuse;
+}
+.secret {
+	opacity: 0.5;
+}
